@@ -7,7 +7,7 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'CartoGIS'
-copyright = '2023, Kamyar Hasanzadeh'
+copyright = '2024, Kamyar Hasanzadeh'
 author = 'Kamyar Hasanzadeh'
 release = '2024'
 
@@ -26,3 +26,4 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
 html_theme = 'sphinx_book_theme'
 html_static_path = ['_static']
+html_logo = '/logo/CartoGIS.png'
