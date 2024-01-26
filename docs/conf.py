@@ -25,7 +25,7 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
 html_last_updated_fmt = "%d %B %Y"
-html_logo = '/logo/CartoGIS.png'
+html_logo = 'autogis-logo_300x210px.svg'
 html_short_title = "CartoGIS"
 html_title = ""
 
