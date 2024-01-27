@@ -35,6 +35,7 @@ html_theme = "sphinx_book_theme"
 html_theme_options = {
     "collapse_navigation": False,
     'search_bar_position': 'none',
+    'nosidebar': True,
     "launch_buttons": {
         "binderhub_url": "https://mybinder.org",
         "notebook_interface": "classic"
