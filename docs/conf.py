@@ -25,12 +25,17 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
 html_last_updated_fmt = "%d %B %Y"
-html_logo = "static/logo/autogis-logo_300x210px.svg"
+html_logo = "static/logo/CartoGIS.png"
 html_short_title = "CartoGIS"
 html_title = ""
 
 html_theme = "sphinx_book_theme"
-
+html_sidebars = {
+    '**': [
+        'about.html',
+        'navigation.html',
+    ]
+}
 
 html_theme_options = {
     "collapse_navigation": False,
