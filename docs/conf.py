@@ -25,11 +25,13 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
 html_last_updated_fmt = "%d %B %Y"
-html_logo = 'autogis-logo_300x210px.svg'
+html_logo = "static/logo/autogis-logo_300x210px.svg"
 html_short_title = "CartoGIS"
 html_title = ""
 
 html_theme = "sphinx_book_theme"
+
+
 html_theme_options = {
     "collapse_navigation": False,
     "launch_buttons": {
@@ -41,6 +43,8 @@ html_theme_options = {
     "repository_url": "https://github.com/Carto-gis/site",
     "use_edit_page_button": True,
     "use_repository_button": True,
+    'logo_only': True,
+    'display_version': False,
 }
 html_static_path = ['_static']
 
