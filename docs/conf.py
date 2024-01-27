@@ -31,7 +31,7 @@ html_title = ""
 
 html_theme = "sphinx_book_theme"
 html_sidebars = {
-    "**": ["search-field.html", "sidebar-nav-bs.html", "sidebar-ethical-ads.html"]
+    "**": [ "sidebar-nav-bs.html"]
 }
 
 html_theme_options = {
@@ -49,8 +49,7 @@ html_theme_options = {
     "use_repository_button": True,
     'logo_only': True,
     'display_version': False,
-    'navigation_depth': -1,
-
+    
 }
 html_static_path = ['_static']
 
