@@ -45,8 +45,7 @@ html_theme_options = {
     "repository_url": "https://github.com/Carto-gis/site",
     "use_edit_page_button": True,
     "use_repository_button": True,
-    'logo_only': True,
-    'display_version': False,
+
 
 
 }
