@@ -30,7 +30,9 @@ html_short_title = "CartoGIS"
 html_title = ""
 
 html_theme = "sphinx_book_theme"
-
+html_sidebars = {
+    "**": ["search-field.html", "sidebar-nav-bs.html", "sidebar-ethical-ads.html"]
+}
 
 html_theme_options = {
     "collapse_navigation": False,
@@ -48,9 +50,7 @@ html_theme_options = {
     'logo_only': True,
     'display_version': False,
     'navigation_depth': -1,
-    html_sidebars = {
-    "**": ["search-field.html", "sidebar-nav-bs.html", "sidebar-ethical-ads.html"]
-}
+
 }
 html_static_path = ['_static']
 
