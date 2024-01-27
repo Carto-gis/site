@@ -30,7 +30,9 @@ html_short_title = "CartoGIS"
 html_title = ""
 
 html_theme = "sphinx_book_theme"
-
+html_sidebars = {
+   '**': ['globaltoc.html', 'sourcelink.html'],
+   }
 
 html_theme_options = {
     "collapse_navigation": False,
@@ -45,7 +47,8 @@ html_theme_options = {
     "repository_url": "https://github.com/Carto-gis/site",
     "use_edit_page_button": True,
     "use_repository_button": True,
-
+    'logo_only': True,
+    'display_version': False,
 
 
 }
