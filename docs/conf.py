@@ -30,9 +30,7 @@ html_short_title = "CartoGIS"
 html_title = ""
 
 html_theme = "sphinx_book_theme"
-html_sidebars = {
-   '**': ['globaltoc.html', 'sourcelink.html'],
-   }
+
 
 html_theme_options = {
     "collapse_navigation": False,
