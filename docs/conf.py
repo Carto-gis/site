@@ -49,7 +49,8 @@ html_theme_options = {
     "use_repository_button": True,
     'logo_only': True,
     'display_version': False,
-    
+    'navigation_depth': -1,
+
 }
 html_static_path = ['_static']
 
