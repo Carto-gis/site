@@ -31,9 +31,7 @@ html_title = ""
 
 html_theme = "sphinx_book_theme"
 html_sidebars = {
-    "**": ["sidebar-nav-bs.html",
-        "nav.html",  # Include the navigation
-        "logo.html",  # Include the logo]
+    "**": ["sidebar-nav-bs.html","nav.html", "logo.html"]
 }
 
 html_theme_options = {
