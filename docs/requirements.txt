@@ -3,3 +3,7 @@ nbsphinx
 jupyterlab
 geopandas
 sphinx_book_theme
+matplotlib
+geopandas
+pandas
+cartopy

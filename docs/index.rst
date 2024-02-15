@@ -8,13 +8,21 @@ Welcome to CartoGIS's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Course information
 
 .. toctree::
      :maxdepth: 2
-     :caption: Lesson 1
+     :caption: Week 1
 
      notebooks/test.ipynb
+
+
+.. toctree::
+      :maxdepth: 2
+      :caption: Week 2
+
+      notebooks/week2/Global_static-maps.ipynb
+
 
 Indices and tables
 ==================
