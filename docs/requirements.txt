@@ -7,3 +7,6 @@ matplotlib
 geopandas
 pandas
 cartopy
+networkx
+osmnx
+PIL

@@ -14,7 +14,7 @@ Welcome to CartoGIS's documentation!
      :maxdepth: 2
      :caption: Week 1
 
-     notebooks/test.ipynb
+     notebooks/week1/Tutorial-1.ipynb
 
 
 .. toctree::
