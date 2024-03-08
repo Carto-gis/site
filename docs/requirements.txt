@@ -9,4 +9,4 @@ pandas
 cartopy
 networkx
 osmnx
-PIL
+pillow
