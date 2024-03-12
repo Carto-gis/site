@@ -24,6 +24,12 @@ Welcome to CartoGIS's documentation!
 
       notebooks/week2/Global_static-maps.ipynb
 
+.. toctree::
+      :maxdepth: 2
+      :caption: Week 4
+
+      notebooks/week4/wild-fires.ipynb
+
 
 Indices and tables
 ==================
