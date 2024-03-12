@@ -10,3 +10,6 @@ cartopy
 networkx
 osmnx
 pillow
+plotly
+folium
+mapclassify
