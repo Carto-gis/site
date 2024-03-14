@@ -13,33 +13,21 @@ Welcome to CartoGIS's documentation!
 .. toctree::
      :maxdepth: 2
      :caption: Week 1
-Lecture
--------
 
      notebooks/week1/color-scheme-SiteV.ipynb
-Practical
----------
      notebooks/week1/Tutorial-1.ipynb
 
 
 .. toctree::
       :maxdepth: 2
       :caption: Week 2
-Lecture
--------
 
-Practical
----------
       notebooks/week2/Global_static-maps.ipynb
 
 .. toctree::
       :maxdepth: 2
       :caption: Week 4
-Lecture
--------
 
-Practical
----------
       notebooks/week4/wild-fires.ipynb
 
 
