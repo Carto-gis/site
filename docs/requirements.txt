@@ -13,3 +13,7 @@ pillow
 plotly
 folium
 mapclassify
+seaborn
+contextily
+osmnx
+tilemapbase
