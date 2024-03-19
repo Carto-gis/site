@@ -22,7 +22,9 @@ Welcome to CartoGIS's documentation!
       :maxdepth: 2
       :caption: Week 2
 
+      notebooks/week2/Proejection.ipynb
       notebooks/week2/Global_static-maps.ipynb
+      notebooks/week2/localMapsStatic.ipynb
 
 .. toctree::
       :maxdepth: 2
