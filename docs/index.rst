@@ -15,15 +15,12 @@ Welcome to CartoGIS's documentation!
      :caption: Week 1
 
      notebooks/week1/color-scheme.ipynb
-     notebooks/week1/Tutorial-1.ipynb
+     notebooks/week1/carto-intro.ipynb
 
 
 .. toctree::
       :maxdepth: 2
       :caption: Week 2
-      :hidden:
-
-      :caption: Tutorial
       notebooks/week2/Projection.ipynb
       notebooks/week2/Global-static-maps.ipynb
       notebooks/week2/localMapsStatic.ipynb
@@ -32,7 +29,8 @@ Welcome to CartoGIS's documentation!
       :maxdepth: 2
       :caption: Week 4
 
-      notebooks/week4/wild-fires.ipynb
+      notebooks/week4/interactive-vis.ipynb
+      notebooks/week4/AI-and-other-tools.ipynb
 
 
 Indices and tables
