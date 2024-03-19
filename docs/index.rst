@@ -21,7 +21,9 @@ Welcome to CartoGIS's documentation!
 .. toctree::
       :maxdepth: 2
       :caption: Week 2
+      :hidden:
 
+      :caption: Tutorial
       notebooks/week2/Projection.ipynb
       notebooks/week2/Global-static-maps.ipynb
       notebooks/week2/localMapsStatic.ipynb
