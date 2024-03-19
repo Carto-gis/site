@@ -31,6 +31,7 @@ Welcome to CartoGIS's documentation!
 
       notebooks/week4/interactive-vis.ipynb
       notebooks/week4/AI-and-other-tools.ipynb
+      notebooks/week4/publish-interactive-maps.ipynb
 
 
 Indices and tables
