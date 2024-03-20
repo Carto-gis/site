@@ -14,9 +14,9 @@ This course is developed and delivered by the `Digital Geography Lab <https://ww
 
 .. admonition:: Open Access
 
-      Course material and videos are <strong>open for everyone</strong>. The aim of this course is to share the knowledge and help people to get started with their journey towards spatial data visualization and cartography more efficiently and in a better reproducible manner. Feel free to share this website with anyone interested, and use the provided material in your own teaching.
+      Course material and videos are **open for everyone**. The aim of this course is to share the knowledge and help people to get started with their journey towards spatial data visualization and cartography more efficiently and in a better reproducible manner. Feel free to share this website with anyone interested, and use the provided material in your own teaching.
 
-      Read more about the license and terms of usage `here <course-info/license.html>`.
+      Read more about the license and terms of usage `here <course-info/license>`__.
 
 
 
@@ -31,7 +31,7 @@ After the course, the student is able to
 
 
 
-.. admonition:: Interactive content</strong>
+.. admonition:: Interactive content
 
       The Python tutorials in this course can be turned into an interactive programming session in the browser. You’ll find buttons for activating the python environment using Binder at the top of each programming lesson. Students at Finnish higher education institutions are encouraged to use `CSC’s Notebooks <https://notebooks.csc.fi/>`.
 
@@ -50,7 +50,7 @@ The course is organized in a lecture + exercise session format. The exercise ses
    At the beginning of this course, you can choose either the software-based or Python-based approach to Cartography. In the software-based approach, we will work with `QGIS <https://www.qgis.org/en/site/>`_. While knowledge of Python programming can be beneficial, fluency in it is not required. However, those who choose to take the Python-based approach are expected to already know the Python programming language and be familiar with GIS and data analysis in Python (particularly working with Pandas and Geopandas Library). Familiarity with creating plots in Python (for example, using Matplotlib) is welcome but not absolutely needed as these will be covered during the course. If you take the Python-based approach, you are advised to have previously completed the `Geo-Python <https://geo-python-site.readthedocs.io/en/latest/>`_ and `AutoGIS <https://autogis-site.readthedocs.io/en/latest/>`_ courses.
 
 
-.. admonition:: Previous knowledge of GIS and Cartography</strong>
+.. admonition:: Previous knowledge of GIS and Cartography
 
       This is an advance-level course a previous knolwedge of GIS concepts and cartographic principles are required.
 
@@ -66,23 +66,24 @@ This is a four-week course that will familiarize the students with the art and s
 During the teaching period, this web page is updated each week before the lecture.
 
 
-+---+---------------------------+-----------------------------+---------------------+
-| W | Lecture theme             | Tutorial                    | Discussion          |
-+===+===========================+=============================+=====================+
-| 1 | Introduction, cartography | Map making 101: working     | Cartography as an   |
-|   | as an art                 | with colors                 | art                 |
-+---+---------------------------+-----------------------------+---------------------+
-| 2 | The digital turn and      | Non-cartographic            | Visualizing         |
-|   | cartography               | visualization, Static maps  | geospatial data     |
-|   |                           |                             | without maps        |
-+---+---------------------------+-----------------------------+---------------------+
-| 3 | Cartographic Story        | Visualizing big geospatial  | Big data & mapping  |
-|   | Telling and Critical      | data                        |                     |
-|   | Theory                    |                             |                     |
-+---+---------------------------+-----------------------------+---------------------+
-| 4 | Map media, tools, and     | Interactive visualization,  | Portfolios          |
-|   | future directions         | mapping time, other tools   |                     |
-+---+---------------------------+-----------------------------+---------------------+
++------+---------------------------+-----------------------------+---------------------+
+| Week | Lecture theme             | Tutorial                    | Discussion          |
++======+===========================+=============================+=====================+
+| 1    | Introduction, cartography | Map making 101: working     | Cartography as an   |
+|      | as an art                 | with colors                 | art                 |
++------+---------------------------+-----------------------------+---------------------+
+| 2    | The digital turn and      | Non-cartographic            | Visualizing         |
+|      | cartography               | visualization, Static maps  | geospatial data     |
+|      |                           |                             | without maps        |
++------+---------------------------+-----------------------------+---------------------+
+| 3    | Cartographic Story        | Visualizing big geospatial  | Big data & mapping  |
+|      | Telling and Critical      | data                        |                     |
+|      | Theory                    |                             |                     |
++------+---------------------------+-----------------------------+---------------------+
+| 4    | Map media, tools, and     | Interactive visualization,  | Portfolios          |
+|      | future directions         | mapping time, other tools   |                     |
++------+---------------------------+-----------------------------+---------------------+
+
 
 
 
