@@ -102,26 +102,9 @@ students can choose their path at the beginning of the course.
 
 
 
-.. container::
+.. admonition:: Do I need to know programming?
 
-
-
-   ::
-
-
-
-      <strong>Do I need to know programming?</strong>
-
-      <p>At the beginning of this course you can choose either the software-based or Python-based approach to Cartography. In the software-based approach, we will work with <a target="_blank" rel="noopener noreferrer" href="https://www.qgis.org/en/site/">QGIS</a>. While knowledge Python programming can be beneficial, fluency at it is not required. However, those who choose to take the Python-based approach, are expected to already know Python programming language and be familiar with GIS and data analysis in Python (particularly working with Pandas and Geopandas Library). Familiarity with creating plots in Python (for example, using Matplotlib) is welcome but not absolutely needed as these will be covered during the course. If you take the Python-based approach, you are advised to have previously completed the <a target="_blank" rel="noopener noreferrer" href="https://geo-python-site.readthedocs.io/en/latest/">Geo-Python</a> and <a target="_blank" rel="noopener noreferrer" href="https://autogis-site.readthedocs.io/en/latest/">AutoGIS</a> courses.&nbsp;</p>
-
-
-
-.. container::
-
-
-
-   ::
-
+   At the beginning of this course, you can choose either the software-based or Python-based approach to Cartography. In the software-based approach, we will work with `QGIS <https://www.qgis.org/en/site/>`_. While knowledge of Python programming can be beneficial, fluency in it is not required. However, those who choose to take the Python-based approach are expected to already know the Python programming language and be familiar with GIS and data analysis in Python (particularly working with Pandas and Geopandas Library). Familiarity with creating plots in Python (for example, using Matplotlib) is welcome but not absolutely needed as these will be covered during the course. If you take the Python-based approach, you are advised to have previously completed the `Geo-Python <https://geo-python-site.readthedocs.io/en/latest/>`_ and `AutoGIS <https://autogis-site.readthedocs.io/en/latest/>`_ courses.
 
 
       <strong>Previous knowledge of GIS and Cartography</strong>
