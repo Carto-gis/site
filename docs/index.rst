@@ -214,7 +214,7 @@ the lecture.
    :maxdepth: 2
    :caption: Course information
 
-   course-info/license.md
+   course-info/license.rst
 
 .. toctree::
      :maxdepth: 2
