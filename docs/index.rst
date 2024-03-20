@@ -16,7 +16,7 @@ This course is developed and delivered by the `Digital Geography Lab <https://ww
 
       Course material and videos are **open for everyone**. The aim of this course is to share the knowledge and help people to get started with their journey towards spatial data visualization and cartography more efficiently and in a better reproducible manner. Feel free to share this website with anyone interested, and use the provided material in your own teaching.
 
-      Read more about the license and terms of usage `here <course-info/license>`__.
+      Read more about the license and terms of usage `here <course-info/license.html>`__.
 
 
 
@@ -33,7 +33,7 @@ After the course, the student is able to
 
 .. admonition:: Interactive content
 
-      The Python tutorials in this course can be turned into an interactive programming session in the browser. You’ll find buttons for activating the python environment using Binder at the top of each programming lesson. Students at Finnish higher education institutions are encouraged to use `CSC’s Notebooks <https://notebooks.csc.fi/>`.
+      The Python tutorials in this course can be turned into an interactive programming session in the browser. You’ll find buttons for activating the python environment using Binder at the top of each programming lesson. Students at Finnish higher education institutions are encouraged to use `CSC’s Notebooks <https://notebooks.csc.fi/>`__.
 
 
 
