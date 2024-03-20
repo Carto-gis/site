@@ -6,45 +6,17 @@
 Cartographic Visualization in GIS 2024
 ====================================
 
-Welcome to Cartographic Visualization in GIS (GEOG-349). Through
+Welcome to Cartographic Visualization in GIS (GEOG-349). Through interactive lessons and hands-on exercises, this course will guide you through the fascinating world of cartography and map making. It combines the conceptual, historical, artistic, and theoretical aspects of cartography with modern technology, giving you a comprehensive and advanced toolkit for map making.
 
-interactive lessons and hands-on exercises, this course will guide you
-
-through the fascinating world of cartography and map making. It combines
-
-the conceptual, historical, artistic, and theoretical aspects of
-
-cartography with modern technology, giving you a comprehensive and
-
-advanced toolkit for map making.
+This course is developed and delivered by the `Digital Geography Lab <https://www.helsinki.fi/en/researchgroups/digital-geography-lab>`__ at the Department of Geosciences and Geography, `University of Helsinki <https://www.helsinki.fi/en>`__. We love open science, so we’re sharing this course openly for everyone’s learning.
 
 
 
-This course is developed and delivered by the `Digital Geography
+.. admonition:: Open Access
 
-Lab <https://www.helsinki.fi/en/researchgroups/digital-geography-lab>`__
+      Course material and videos are <strong>open for everyone</strong>. The aim of this course is to share the knowledge and help people to get started with their journey towards spatial data visualization and cartography more efficiently and in a better reproducible manner. Feel free to share this website with anyone interested, and use the provided material in your own teaching.
 
-at the Department of Geosciences and Geography, `University of
-
-Helsinki <https://www.helsinki.fi/en>`__. We love open science, so we’re
-
-sharing this course openly for everyone’s learning.
-
-
-
-.. container::
-
-
-
-   ::
-
-
-
-      <strong>Open Access</strong>
-
-      <p>Course material and videos are <strong>open for everyone</strong>. The aim of this course is to share the knowledge and help people to get started with their journey towards spatial data visualization and cartography more efficiently and in a better reproducible manner. Feel free to share this website with anyone interested, and use the provided material in your own teaching.</p>
-
-      <p>Read more about the license and terms of usage <a href="course-info/license.html">here</a>.</p>
+      Read more about the license and terms of usage `here <course-info/license.html>`.
 
 
 
@@ -52,53 +24,24 @@ After the course, the student is able to
 
 
 
--  Understand the history of cartographic theory and how it links to the
-
-   present day map making.
-
--  Apply the theoretical knowledge in designing appealing and effective
-
-   visual representations
-
--  Use the state of the art approaches for cartographic visualization to
-
-   produce maps and other visualisations for printed and online media.
+- Understand the history of cartographic theory and how it links to the present day map making.
+- Apply the theoretical knowledge in designing appealing and effective visual representations.
+- Use the state of the art approaches for cartographic visualization to produce maps and other visualisations for printed and online media.
 
 
 
-.. container::
 
+.. admonition:: Interactive content</strong>
 
-
-   ::
-
-
-
-      <strong>Interactive content</strong>
-
-      <p>The Python tutorials in this course can be turned into an interactive programming session in the browser. You’ll find buttons for activating the python environment using Binder at the top of each programming lesson. Students at Finnish higher education institutions are encouraged to use <a target="_blank" rel="noopener noreferrer" href="https://notebooks.csc.fi/">CSC’s Notebooks</a>.</p>
+      The Python tutorials in this course can be turned into an interactive programming session in the browser. You’ll find buttons for activating the python environment using Binder at the top of each programming lesson. Students at Finnish higher education institutions are encouraged to use `CSC’s Notebooks <https://notebooks.csc.fi/>`.
 
 
 
 Course format
-
 -------------
 
+The course is organized in a lecture + exercise session format. The exercise sessions are hands-on and allow students to practice and develop their skills in cartographic visualization using GIS and to receive help from course assistants. Additional readings will be provided in the lectures. The exercise sessions are divided between a more software-based or Python-based approach to cartography, and the students can choose their path at the beginning of the course.
 
-
-The course is organized in a lecture + exercise session format. The
-
-exercise sessions are hands-on and allow students to practice and
-
-develop their skills in cartographic visualization using GIS and to
-
-receive help from course assistants. Additional readings will be
-
-provided in the lectures. The exercise sessions are divided between a
-
-more software-based or Python-based approach to cartography and the
-
-students can choose their path at the beginning of the course.
 
 
 
@@ -107,89 +50,40 @@ students can choose their path at the beginning of the course.
    At the beginning of this course, you can choose either the software-based or Python-based approach to Cartography. In the software-based approach, we will work with `QGIS <https://www.qgis.org/en/site/>`_. While knowledge of Python programming can be beneficial, fluency in it is not required. However, those who choose to take the Python-based approach are expected to already know the Python programming language and be familiar with GIS and data analysis in Python (particularly working with Pandas and Geopandas Library). Familiarity with creating plots in Python (for example, using Matplotlib) is welcome but not absolutely needed as these will be covered during the course. If you take the Python-based approach, you are advised to have previously completed the `Geo-Python <https://geo-python-site.readthedocs.io/en/latest/>`_ and `AutoGIS <https://autogis-site.readthedocs.io/en/latest/>`_ courses.
 
 
-      <strong>Previous knowledge of GIS and Cartography</strong>
+.. admonition:: Previous knowledge of GIS and Cartography</strong>
 
-      <p>This is an advance-level course a previous knolwedge of GIS concepts and cartographic principles are required.</p>
-
-
-
-In addition to weekly exercises, students will submit a portfolio at the
-
-end of the course. The portfolio includes a short description of each
-
-exercise and a project work applying the knowledge gained during the
-
-course. ## Course toics by week This is a four-week course that will
-
-familiarize the students to the art and science of cartographic
-
-visualization. The students will learn about the cartographic theories
-
-and how to implement them in an GIS environment, to create appealing and
-
-effective communication of their findings. Regardless of which path you
-
-choose (software or Python), you will achieve the same outcomes and
-
-learn to create more or less similar maps using different approaches. At
-
-the University of Helsinki, the course runs for four weeks during the
-
-intensive teaching period, starting on Monday, 6 May 2024.
+      This is an advance-level course a previous knolwedge of GIS concepts and cartographic principles are required.
 
 
 
-During the teaching period, this web page is updated each week before
+In addition to weekly exercises, students will submit a portfolio at the end of the course. The portfolio includes a short description of each exercise and a project work applying the knowledge gained during the course.
 
-the lecture.
+Course topics by week
+---------------------
+
+This is a four-week course that will familiarize the students with the art and science of cartographic visualization. The students will learn about the cartographic theories and how to implement them in a GIS environment, to create appealing and effective communication of their findings. Regardless of which path you choose (software or Python), you will achieve the same outcomes and learn to create more or less similar maps using different approaches. At the University of Helsinki, the course runs for four weeks during the intensive teaching period, starting on Monday, 6 May 2024.
+
+During the teaching period, this web page is updated each week before the lecture.
 
 
++---+---------------------------+-----------------------------+---------------------+
+| W | Lecture theme             | Tutorial                    | Discussion          |
++===+===========================+=============================+=====================+
+| 1 | Introduction, cartography | Map making 101: working     | Cartography as an   |
+|   | as an art                 | with colors                 | art                 |
++---+---------------------------+-----------------------------+---------------------+
+| 2 | The digital turn and      | Non-cartographic            | Visualizing         |
+|   | cartography               | visualization, Static maps  | geospatial data     |
+|   |                           |                             | without maps        |
++---+---------------------------+-----------------------------+---------------------+
+| 3 | Cartographic Story        | Visualizing big geospatial  | Big data & mapping  |
+|   | Telling and Critical      | data                        |                     |
+|   | Theory                    |                             |                     |
++---+---------------------------+-----------------------------+---------------------+
+| 4 | Map media, tools, and     | Interactive visualization,  | Portfolios          |
+|   | future directions         | mapping time, other tools   |                     |
++---+---------------------------+-----------------------------+---------------------+
 
-+---+-------------------------+--------------------+-------------------+
-
-| W | Lecture theme           | Tutorial           | Discussion        |
-
-| e |                         |                    |                   |
-
-| e |                         |                    |                   |
-
-| k |                         |                    |                   |
-
-+===+=========================+====================+===================+
-
-| 1 | Introduction,           | Map making 101:    | Cartography as an |
-
-|   | cartography as an art   | working with       | art               |
-
-|   |                         | colors             |                   |
-
-+---+-------------------------+--------------------+-------------------+
-
-| 2 | The digital turn and    | Non-cartographic   | Visualizing       |
-
-|   | cartography             | visualization,     | geospatial data   |
-
-|   |                         | Static maps        | without maps      |
-
-+---+-------------------------+--------------------+-------------------+
-
-| 3 | Cartographic Story      | Visualizing big    | Big data &        |
-
-|   | Telling and Critical    | geospatial data    | mapping           |
-
-|   | Theory                  |                    |                   |
-
-+---+-------------------------+--------------------+-------------------+
-
-| 4 | Map media, tools, and   | Interactive        | Portfolios        |
-
-|   | future directions       | visualization,     |                   |
-
-|   |                         | mapping time,      |                   |
-
-|   |                         | other tools        |                   |
-
-+---+-------------------------+--------------------+-------------------+
 
 
 
@@ -197,7 +91,7 @@ the lecture.
    :maxdepth: 2
    :caption: Course information
 
-   course-info/license.rst
+   course-info/license.ipynb
 
 .. toctree::
      :maxdepth: 2
