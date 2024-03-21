@@ -4,11 +4,13 @@ Learning goals
 Below you find the intended learning outcomes after each study week. Please use this table to monitor your learning progress: you can always go back to revisit a previous week’s material.
 
 After **week 1**, you should be able to:
+
 * Grasp the evolution of cartographic theory and its connection to contemporary map-making.
 * Comprehend map design and color theory, applying these to create compelling and effective visual representations.
 * View cartography not only as a technical skill but also as an artistic endeavor.
 
 After **week 2**, you should be able to:
+
 * Understand how new technologies and the advent of big data have transformed cartography.
 * Recognize the importance of coordinate systems and map projections in crafting accurate maps.
 * Identify design elements that aesthetically enhance maps.
@@ -17,11 +19,13 @@ After **week 2**, you should be able to:
 * Acknowledge that geospatial data can be visualized in non-cartographic forms.
 
 After **week 3**, you should be able to:
+
 * Understand the art of storytelling with geospatial data.
 * Grasp the principles of critical cartography.
 * Visualize large-scale geospatial data.
 
 After **week 4**, you should be able to:
+
 * Understand and mitigate the effects of map media on cartographic design.
 * Create interactive visualizations.
 * Publish your interactive maps online.
