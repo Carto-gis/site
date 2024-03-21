@@ -152,7 +152,8 @@ During the teaching period, this web page is updated each week before the lectur
       :maxdepth: 2
       :caption: Practical
 
-      notebooks/week4/interactive-vis.ipynb
+      notebooks/week4/interactive-vis-I.ipynb
+      notebooks/week4/interactive-vis-II.ipynb
       notebooks/week4/AI-and-other-tools.ipynb
       notebooks/week4/publish-interactive-maps.ipynb
 
