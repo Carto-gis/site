@@ -92,6 +92,14 @@ During the teaching period, this web page is updated each week before the lectur
    :maxdepth: 2
    :caption: Course information
 
+   course-info/general-info.ipynb
+   course-info/course-env.ipynb
+   course-info/grading.ipynb
+   course-info/learning-goals.ipynb
+   course-info/install-python.ipynb
+   course-info/python-gis-env.ipynb
+   course-info/ai-tools.ipynb
+   course-info/resources.ipynb
    course-info/license.ipynb
 
 .. toctree::
