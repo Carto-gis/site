@@ -95,7 +95,7 @@ During the teaching period, this web page is updated each week before the lectur
    course-info/general-info.ipynb
    course-info/course-env.ipynb
    course-info/grading.ipynb
-   course-info/learning-goals.rst
+   course-info/learning-goal.rst
    course-info/install-python.ipynb
    course-info/python-gis-env.ipynb
    course-info/ai-tools.ipynb
