@@ -157,6 +157,14 @@ During the teaching period, this web page is updated each week before the lectur
       notebooks/week4/AI-and-other-tools.ipynb
       notebooks/week4/publish-interactive-maps.ipynb
 
+.. toctree::
+      :maxdepth: 2
+      :caption: Final project
+
+      final-project/portfolio.ipynb
+      final-project/publish-interactive-maps.ipynb
+
+
 
 Indices and tables
 ==================
