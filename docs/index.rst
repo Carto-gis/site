@@ -112,7 +112,7 @@ During the teaching period, this web page is updated each week before the lectur
 
 .. toctree::
      :maxdepth: 2
-     :caption: Practical
+     :caption: -Practical
 
      notebooks/week1/color-scheme.ipynb
      notebooks/week1/carto-intro.ipynb
@@ -127,7 +127,7 @@ During the teaching period, this web page is updated each week before the lectur
 
 .. toctree::
       :maxdepth: 2
-      :caption: Practical
+      :caption: -Practical
 
       notebooks/week2/Projection.ipynb
       notebooks/week2/Global-static-maps.ipynb
@@ -139,6 +139,11 @@ During the teaching period, this web page is updated each week before the lectur
 
       lectures/Lecture-3.ipynb
 
+.. toctree::
+      :maxdepth: 2
+      :caption: -Practical
+
+      lectures/Lecture-3.ipynb
 
 
 .. toctree::
@@ -150,7 +155,7 @@ During the teaching period, this web page is updated each week before the lectur
 
 .. toctree::
       :maxdepth: 2
-      :caption: Practical
+      :caption: -Practical
 
       notebooks/week4/interactive-vis-I.ipynb
       notebooks/week4/interactive-vis-II.ipynb
