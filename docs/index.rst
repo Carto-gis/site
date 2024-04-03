@@ -114,6 +114,7 @@ During the teaching period, this web page is updated each week before the lectur
      :maxdepth: 2
      :caption: -Practical
 
+     notebooks/week1/color-picker.ipynb
      notebooks/week1/color-scheme.ipynb
      notebooks/week1/carto-intro.ipynb
 
