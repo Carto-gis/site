@@ -11,9 +11,9 @@ networkx
 osmnx
 pillow
 plotly
-folium
 mapclassify
 seaborn
 contextily
 osmnx
 tilemapbase
+folium
