@@ -133,6 +133,7 @@ During the teaching period, this web page is updated each week before the lectur
       notebooks/week2/Projection.ipynb
       notebooks/week2/Global-static-maps.ipynb
       notebooks/week2/PPGIS.ipynb
+	  notebooks/week2/non-carto-vis.ipynb
 
 .. toctree::
       :maxdepth: 2

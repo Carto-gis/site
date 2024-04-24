@@ -17,3 +17,4 @@ contextily
 osmnx
 tilemapbase
 folium
+mpl_chord_diagram

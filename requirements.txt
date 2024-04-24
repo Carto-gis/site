@@ -16,4 +16,5 @@ seaborn
 contextily
 osmnx
 tilemapbase
+mpl_chord_diagram
 folium
