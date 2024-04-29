@@ -108,70 +108,68 @@ During the teaching period, this web page is updated each week before the lectur
    :caption: Lesson 1
 
    lectures/Lecture-1.ipynb
+   notebooks/week1/color-picker.ipynb
+   notebooks/week1/color-scheme.ipynb
+   notebooks/week1/projections.ipynb
 
 
 .. toctree::
-      :maxdepth: 2
-      :caption: -Practical
+   :maxdepth: 2
+   :caption: -Practical
 
-      notebooks/week1/color-picker.ipynb
-      notebooks/week1/color-scheme.ipynb
-	  notebooks/week1/projections.ipynb
-      notebooks/week1/carto-intro.ipynb
+   notebooks/week1/carto-intro.ipynb
 
 
 .. toctree::
-    :maxdepth: 2
-    :caption: Lesson 2
+   :maxdepth: 2
+   :caption: Lesson 2
 
-    lectures/Lecture-2.ipynb
-
-
-.. toctree::
-      :maxdepth: 2
-      :caption: -Practical
-
-      notebooks/week2/Global-static-maps.ipynb
-      notebooks/week2/PPGIS.ipynb
-      
-
-.. toctree::
-      :maxdepth: 2
-      :caption: Lesson 3
-
-      lectures/Lecture-3.ipynb
-
-.. toctree::
-      :maxdepth: 2
-      :caption: -Practical
-
-      notebooks/week3/non-carto-vis.ipynb
+   lectures/Lecture-2.ipynb
 
 
 .. toctree::
-     :maxdepth: 2
-     :caption: Lesson 4
+   :maxdepth: 2
+   :caption: -Practical
 
-     lectures/Lecture-4.ipynb
-
-
-.. toctree::
-      :maxdepth: 2
-      :caption: -Practical
-
-      notebooks/week4/interactive-vis-I.ipynb
-      notebooks/week4/interactive-vis-II.ipynb
-      notebooks/week4/AI-and-other-tools.ipynb
-      notebooks/week4/publish-interactive-maps.ipynb
+   notebooks/week2/Global-static-maps.ipynb
+   notebooks/week2/PPGIS.ipynb
 
 
 .. toctree::
-      :maxdepth: 2
-      :caption: Final project
+   :maxdepth: 2
+   :caption: Lesson 3
 
-      final-project/portfolio.ipynb
-      final-project/publish-interactive-maps.ipynb
+   lectures/Lecture-3.ipynb
 
+.. toctree::
+   :maxdepth: 2
+   :caption: -Practical
+
+   notebooks/week3/non-carto-vis.ipynb
+
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Lesson 4
+
+   lectures/Lecture-4.ipynb
+
+.. toctree::
+   :maxdepth: 2
+   :caption: -Practical
+
+   notebooks/week4/interactive-vis-I.ipynb
+   notebooks/week4/interactive-vis-II.ipynb
+   notebooks/week4/AI-and-other-tools.ipynb
+   notebooks/week4/publish-interactive-maps.ipynb
+
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Final project
+
+   final-project/portfolio.ipynb
+   final-project/publish-interactive-maps.ipynb
 
 
 
