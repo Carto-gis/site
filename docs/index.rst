@@ -47,12 +47,12 @@ The course is organized in a lecture + exercise session format. The exercise ses
 
 .. admonition:: Do I need to know programming?
 
-   At the beginning of this course, you can choose either the software-based or Python-based approach to Cartography. In the software-based approach, we will work with `QGIS <https://www.qgis.org/en/site/>`_. While knowledge of Python programming can be beneficial, fluency in it is not required. However, those who choose to take the Python-based approach are expected to already know the Python programming language and be familiar with GIS and data analysis in Python (particularly working with Pandas and Geopandas Library). Familiarity with creating plots in Python (for example, using Matplotlib) is welcome but not absolutely needed as these will be covered during the course. If you take the Python-based approach, you are advised to have previously completed the `Geo-Python <https://geo-python-site.readthedocs.io/en/latest/>`_ and `AutoGIS <https://autogis-site.readthedocs.io/en/latest/>`_ courses.
+   In this course, you can choose either the software-based or Python-based approach to Cartography. In the software-based approach, we will work with `QGIS <https://www.qgis.org/en/site/>`_. While knowledge of Python programming can be beneficial and is needed on a basic level, fluency in it is not required. However, those who choose to take the Python-based approach are expected to already know the Python programming language and be familiar with GIS and data analysis in Python (particularly working with Pandas and Geopandas Library). Familiarity with creating plots in Python (for example, using Matplotlib) is welcome but not absolutely needed as these will be briefly covered during the course. If you take the Python-based approach, you are advised to have previously completed the `Geo-Python <https://geo-python-site.readthedocs.io/en/latest/>`_ and `AutoGIS <https://autogis-site.readthedocs.io/en/latest/>`_ courses.
 
 
 .. admonition:: Previous knowledge of GIS and Cartography
 
-      This is an advance-level course a previous knolwedge of GIS concepts and cartographic principles are required.
+      This is an advanced-level course. A previous knolwedge of GIS concepts and cartographic principles are required.
 
 
 
@@ -61,31 +61,26 @@ In addition to weekly exercises, students will submit a portfolio at the end of 
 Course topics by week
 ---------------------
 
-This is a four-week course that will familiarize the students with the art and science of cartographic visualization. The students will learn about the cartographic theories and how to implement them in a GIS environment, to create appealing and effective communication of their findings. Regardless of which path you choose (software or Python), you will achieve the same outcomes and learn to create more or less similar maps using different approaches. At the University of Helsinki, the course runs for four weeks during the intensive teaching period, starting on Monday, 6 May 2024.
+This is a four-week intensive course that will familiarize the students with the art and science of cartographic visualization. The students will learn about the cartographic theories and how to implement them in a GIS environment, to create appealing and effective communication of their findings. Regardless of which path you choose (software or Python), you will achieve the same outcomes and learn to create more or less similar maps using different approaches. At the University of Helsinki, the course runs for four weeks during the intensive teaching period, starting on Monday, 6 May 2024.
 
-During the teaching period, this web page is updated each week before the lecture.
+During the teaching period, this web page is updated each week before the lecture. Please note that there can be small changes to the program and topics for each week. 
 
-
-+------+---------------------------+-----------------------------+---------------------+
-| Week | Lecture theme             | Tutorial                    | Discussion          |
-+======+===========================+=============================+=====================+
-| 1    | Introduction, cartography | Map making 101: working     | Cartography as an   |
-|      | as an art                 | with colors                 | art                 |
-+------+---------------------------+-----------------------------+---------------------+
-| 2    | The digital turn and      | Non-cartographic            | Visualizing         |
-|      | cartography               | visualization, Static maps  | geospatial data     |
-|      |                           |                             | without maps        |
-+------+---------------------------+-----------------------------+---------------------+
-| 3    | Cartographic Story        | Visualizing big geospatial  | Big data & mapping  |
-|      | Telling and Critical      | data                        |                     |
-|      | Theory                    |                             |                     |
-+------+---------------------------+-----------------------------+---------------------+
-| 4    | Map media, tools, and     | Interactive visualization,  | Portfolios          |
-|      | future directions         | mapping time, other tools   |                     |
-+------+---------------------------+-----------------------------+---------------------+
-
-
-
++------+-------------------------------+-------------------------------------------+--------------------------------+
+| Week | Lecture theme                 | Tutorial                                  | Discussion                     |
++======+===============================+===========================================+================================+
+| 1    | Introduction, cartography     | Map making 101: working with colors       | Cartography as an art,         |
+|      | as an art                     |                                           | projections                    |
++------+-------------------------------+-------------------------------------------+--------------------------------+
+| 2    | The digital turn and          | Static maps, PPGIS                        | Geospatial data without maps,  |
+|      | geospatial data               |                                           | Portfolios                     |
++------+-------------------------------+-------------------------------------------+--------------------------------+
+| 3    | Cartographic Story Telling    | Visualizing big geospatial data,          | Big data & mapping, Visualizing|
+|      | and Critical cartography      | Non-cartographic visualization            |                                |
+|      | Theory                        |                                           |                                |
++------+-------------------------------+-------------------------------------------+--------------------------------+
+| 4    | Map media, tools, and         | Interactive visualization, mapping time,  | Portfolios                     |
+|      | future directions             | other tools                               |                                |
++------+-------------------------------+-------------------------------------------+--------------------------------+
 
 
 .. toctree::
@@ -103,73 +98,79 @@ During the teaching period, this web page is updated each week before the lectur
    course-info/license.ipynb
 
 
-.. .. toctree::
-..    :maxdepth: 2
-..    :caption: Lesson 1
 ..
-..    lectures/Lecture-1.ipynb
+   .. toctree::
+      :maxdepth: 2
+      :caption: Lesson 1
+
+      lectures/Lecture-1.ipynb
+      notebooks/week1/color-picker.ipynb
+      notebooks/week1/color-scheme.ipynb
+      notebooks/week1/projections.ipynb
+	  notebooks/week1/PythonVSsoftware.ipynb
+
 ..
+   .. toctree::
+      :maxdepth: 2
+      :caption: -Practical
+
+      notebooks/week1/tutorial1-overview.ipynb
+      notebooks/week1/carto-intro.ipynb
+
 ..
-.. .. toctree::
-..      :maxdepth: 2
-..      :caption: -Practical
+   .. toctree::
+      :maxdepth: 2
+      :caption: Lesson 2
+
+      lectures/Lecture-2.ipynb
+
 ..
-..      notebooks/week1/color-picker.ipynb
-..      notebooks/week1/color-scheme.ipynb
-..      notebooks/week1/carto-intro.ipynb
+   .. toctree::
+      :maxdepth: 2
+      :caption: -Practical
+
+      notebooks/week2/Global-static-maps.ipynb
+      notebooks/week2/PPGIS.ipynb
+
 ..
+   .. toctree::
+      :maxdepth: 2
+      :caption: Lesson 3
+
+      lectures/Lecture-3.ipynb
+
 ..
-.. .. toctree::
-..     :maxdepth: 2
-..     :caption: Lesson 2
+   .. toctree::
+      :maxdepth: 2
+      :caption: -Practical
+
+      notebooks/week3/non-carto-vis.ipynb
+
 ..
-..     lectures/Lecture-2.ipynb
+   .. toctree::
+      :maxdepth: 2
+      :caption: Lesson 4
+
+      lectures/Lecture-4.ipynb
+
 ..
+   .. toctree::
+      :maxdepth: 2
+      :caption: -Practical
+
+      notebooks/week4/interactive-vis-I.ipynb
+      notebooks/week4/interactive-vis-II.ipynb
+      notebooks/week4/AI-and-other-tools.ipynb
+      notebooks/week4/publish-interactive-maps.ipynb
+
 ..
-.. .. toctree::
-..       :maxdepth: 2
-..       :caption: -Practical
-..
-..       notebooks/week2/Projection.ipynb
-..       notebooks/week2/Global-static-maps.ipynb
-..       notebooks/week2/PPGIS.ipynb
-..       notebooks/week2/non-carto-vis.ipynb
-..
-.. .. toctree::
-..       :maxdepth: 2
-..       :caption: Lesson 3
-..
-..       lectures/Lecture-3.ipynb
-..
-.. .. toctree::
-..       :maxdepth: 2
-..       :caption: -Practical
-..
-..       lectures/Lecture-3.ipynb
-..
-..
-.. .. toctree::
-..      :maxdepth: 2
-..      :caption: Lesson 4
-..
-..      lectures/Lecture-4.ipynb
-..
-..
-.. .. toctree::
-..       :maxdepth: 2
-..       :caption: -Practical
-..
-..       notebooks/week4/interactive-vis-I.ipynb
-..       notebooks/week4/interactive-vis-II.ipynb
-..       notebooks/week4/AI-and-other-tools.ipynb
-..       notebooks/week4/publish-interactive-maps.ipynb
-..
-.. .. toctree::
-..       :maxdepth: 2
-..       :caption: Final project
-..
-..       final-project/portfolio.ipynb
-..       final-project/publish-interactive-maps.ipynb
+   .. toctree::
+      :maxdepth: 2
+      :caption: Final project
+
+      final-project/portfolio.ipynb
+      final-project/publish-interactive-maps.ipynb
+
 
 
 
