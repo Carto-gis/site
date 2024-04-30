@@ -47,12 +47,12 @@ The course is organized in a lecture + exercise session format. The exercise ses
 
 .. admonition:: Do I need to know programming?
 
-   At the beginning of this course, you can choose either the software-based or Python-based approach to Cartography. In the software-based approach, we will work with `QGIS <https://www.qgis.org/en/site/>`_. While knowledge of Python programming can be beneficial, fluency in it is not required. However, those who choose to take the Python-based approach are expected to already know the Python programming language and be familiar with GIS and data analysis in Python (particularly working with Pandas and Geopandas Library). Familiarity with creating plots in Python (for example, using Matplotlib) is welcome but not absolutely needed as these will be covered during the course. If you take the Python-based approach, you are advised to have previously completed the `Geo-Python <https://geo-python-site.readthedocs.io/en/latest/>`_ and `AutoGIS <https://autogis-site.readthedocs.io/en/latest/>`_ courses.
+   In this course, you can choose either the software-based or Python-based approach to Cartography. In the software-based approach, we will work with `QGIS <https://www.qgis.org/en/site/>`_. While knowledge of Python programming can be beneficial and is needed on a basic level, fluency in it is not required. However, those who choose to take the Python-based approach are expected to already know the Python programming language and be familiar with GIS and data analysis in Python (particularly working with Pandas and Geopandas Library). Familiarity with creating plots in Python (for example, using Matplotlib) is welcome but not absolutely needed as these will be briefly covered during the course. If you take the Python-based approach, you are advised to have previously completed the `Geo-Python <https://geo-python-site.readthedocs.io/en/latest/>`_ and `AutoGIS <https://autogis-site.readthedocs.io/en/latest/>`_ courses.
 
 
 .. admonition:: Previous knowledge of GIS and Cartography
 
-      This is an advance-level course a previous knolwedge of GIS concepts and cartographic principles are required.
+      This is an advanced-level course. A previous knolwedge of GIS concepts and cartographic principles are required.
 
 
 
@@ -107,13 +107,13 @@ During the teaching period, this web page is updated each week before the lectur
       notebooks/week1/color-picker.ipynb
       notebooks/week1/color-scheme.ipynb
       notebooks/week1/projections.ipynb
+	  notebooks/week1/PythonVSsoftware.ipynb
 
 ..
    .. toctree::
       :maxdepth: 2
       :caption: -Practical
 
-      notebooks/week1/PythonVSsoftware.ipynb
       notebooks/week1/tutorial1-overview.ipynb
       notebooks/week1/carto-intro.ipynb
 
