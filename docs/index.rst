@@ -61,31 +61,26 @@ In addition to weekly exercises, students will submit a portfolio at the end of 
 Course topics by week
 ---------------------
 
-This is a four-week course that will familiarize the students with the art and science of cartographic visualization. The students will learn about the cartographic theories and how to implement them in a GIS environment, to create appealing and effective communication of their findings. Regardless of which path you choose (software or Python), you will achieve the same outcomes and learn to create more or less similar maps using different approaches. At the University of Helsinki, the course runs for four weeks during the intensive teaching period, starting on Monday, 6 May 2024.
+This is a four-week intensive course that will familiarize the students with the art and science of cartographic visualization. The students will learn about the cartographic theories and how to implement them in a GIS environment, to create appealing and effective communication of their findings. Regardless of which path you choose (software or Python), you will achieve the same outcomes and learn to create more or less similar maps using different approaches. At the University of Helsinki, the course runs for four weeks during the intensive teaching period, starting on Monday, 6 May 2024.
 
-During the teaching period, this web page is updated each week before the lecture.
+During the teaching period, this web page is updated each week before the lecture. Please note that there can be small changes to the program and topics for each week. 
 
-
-+------+---------------------------+-----------------------------+---------------------+
-| Week | Lecture theme             | Tutorial                    | Discussion          |
-+======+===========================+=============================+=====================+
-| 1    | Introduction, cartography | Map making 101: working     | Cartography as an   |
-|      | as an art                 | with colors                 | art                 |
-+------+---------------------------+-----------------------------+---------------------+
-| 2    | The digital turn and      | Non-cartographic            | Visualizing         |
-|      | cartography               | visualization, Static maps  | geospatial data     |
-|      |                           |                             | without maps        |
-+------+---------------------------+-----------------------------+---------------------+
-| 3    | Cartographic Story        | Visualizing big geospatial  | Big data & mapping  |
-|      | Telling and Critical      | data                        |                     |
-|      | Theory                    |                             |                     |
-+------+---------------------------+-----------------------------+---------------------+
-| 4    | Map media, tools, and     | Interactive visualization,  | Portfolios          |
-|      | future directions         | mapping time, other tools   |                     |
-+------+---------------------------+-----------------------------+---------------------+
-
-
-
++------+-------------------------------+-------------------------------------------+--------------------------------+
+| Week | Lecture theme                 | Tutorial                                  | Discussion                     |
++======+===============================+===========================================+================================+
+| 1    | Introduction, cartography     | Map making 101: working with colors       | Cartography as an art,         |
+|      | as an art                     |                                           | projections                    |
++------+-------------------------------+-------------------------------------------+--------------------------------+
+| 2    | The digital turn and          | Static maps, PPGIS                        | Geospatial data without maps,  |
+|      | geospatial data               |                                           | Portfolios                     |
++------+-------------------------------+-------------------------------------------+--------------------------------+
+| 3    | Cartographic Story Telling    | Visualizing big geospatial data,          | Big data & mapping, Visualizing|
+|      | and Critical cartography      | Non-cartographic visualization            |                                |
+|      | Theory                        |                                           |                                |
++------+-------------------------------+-------------------------------------------+--------------------------------+
+| 4    | Map media, tools, and         | Interactive visualization, mapping time,  | Portfolios                     |
+|      | future directions             | other tools                               |                                |
++------+-------------------------------+-------------------------------------------+--------------------------------+
 
 
 .. toctree::
@@ -117,6 +112,8 @@ During the teaching period, this web page is updated each week before the lectur
    :maxdepth: 2
    :caption: -Practical
 
+   notebooks/week1/PythonVSsoftware.ipynb
+   notebooks/week1/tutorial1-overview.ipynb
    notebooks/week1/carto-intro.ipynb
 
 
