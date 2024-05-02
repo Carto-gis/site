@@ -114,7 +114,8 @@ During the teaching period, this web page is updated each week before the lectur
    :caption: -Practical
 
    notebooks/week1/tutorial1-overview.ipynb
-   notebooks/week1/carto-intro.ipynb
+   notebooks/week1/carto-intro-Python.ipynb
+   notebooks/week1/carto-intro-QGIS.ipynb
 
 .. toctree::
    :maxdepth: 2
