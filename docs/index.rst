@@ -95,22 +95,22 @@ During the teaching period, this web page is updated each week before the lectur
    course-info/resources.ipynb
    course-info/license.ipynb
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Lesson 1
-
-   lectures/Lecture-1.ipynb
-   notebooks/week1/projections.ipynb
-   notebooks/week1/PythonVSsoftware.ipynb
-
-.. toctree::
-   :maxdepth: 2
-   :caption: -Practical
-
-   notebooks/week1/tutorial1-overview.ipynb
-   notebooks/week1/carto-intro-Python.ipynb
-   notebooks/week1/carto-intro-QGIS.ipynb
-   notebooks/week1/exercise-1.ipynb
+.. .. toctree::
+..    :maxdepth: 2
+..    :caption: Lesson 1
+.. 
+..    lectures/Lecture-1.ipynb
+..    notebooks/week1/projections.ipynb
+..    notebooks/week1/PythonVSsoftware.ipynb
+.. 
+.. .. toctree::
+..    :maxdepth: 2
+..    :caption: -Practical
+.. 
+..    notebooks/week1/tutorial1-overview.ipynb
+..    notebooks/week1/carto-intro-Python.ipynb
+..    notebooks/week1/carto-intro-QGIS.ipynb
+..    notebooks/week1/exercise-1.ipynb
 
 .. .. toctree::
 ..    :maxdepth: 2
