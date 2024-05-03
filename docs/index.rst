@@ -117,8 +117,8 @@ During the teaching period, this web page is updated each week before the lectur
    :caption: Lesson 2
 
    lectures/Lecture-2.ipynb
-   notebooks/week1/color-picker.ipynb
-   notebooks/week1/color-scheme.ipynb
+   notebooks/week2/color-picker.ipynb
+   notebooks/week2/color-scheme.ipynb
 
 .. toctree::
    :maxdepth: 2
