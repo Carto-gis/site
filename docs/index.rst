@@ -65,22 +65,19 @@ This is a four-week intensive course that will familiarize the students with the
 
 During the teaching period, this web page is updated each week before the lecture. Please note that there can be small changes to the program and topics for each week. 
 
-+------+-----------------------------------------+-------------------------------------------+--------------------------------+
-| Week | Lecture theme                           | Tutorial                                  | Discussion                     |
-+======+=========================================+===========================================+================================+
-| 1    | Introduction, cartography as an art     | Map making 101: working with colors       | Cartography as an art,         |
-|      |                                         |                                           | projections                    |
-+------+-----------------------------------------+-------------------------------------------+--------------------------------+
-| 2    | The digital turn and geospatial data    | Static maps, PPGIS                        | Geospatial data without maps,  |
-|      | (Tuuli Toivonen)                        |                                           | Portfolios                     |
-+------+-----------------------------------------+-------------------------------------------+--------------------------------+
-| 3    | Cartographic Story Telling and Critical | Visualizing big geospatial data,          | Big data & mapping, Visualizing|
-|      | cartography Theory                      | Non-cartographic visualization            |                                |
-|      | (Franz-Benjamin Mocnik)                 |                                           |                                |
-+------+-----------------------------------------+-------------------------------------------+--------------------------------+
-| 4    | Map media, tools, and future directions | Interactive visualization, mapping time,  | Portfolios                     |
-|      |                                         | other tools                               |                                |
-+------+-----------------------------------------+-------------------------------------------+--------------------------------+
++------+---------------------------------------------------+---------------------------------------------------+----------------------------------------------+
+| Week | Lecture theme                                     | Tutorial                                          | Discussion                                   |
++======+===================================================+===================================================+==============================================+
+| 1    | Introduction, cartography as an art               | Map making 101: colors, layout                    | Cartography as an art, projections           |
++------+---------------------------------------------------+---------------------------------------------------+----------------------------------------------+
+| 2    | The digital turn and geospatial data, color theory| Static maps, PPGIS                                | Colors in maps, visual hierarchy             |
++------+---------------------------------------------------+---------------------------------------------------+----------------------------------------------+
+| 3    | Cartographic Story Telling and Critical           | Visualizing big geospatial data,                  | "To be added", portfolios                    |
+|      | cartography Theory (Franz-Benjamin Mocnik)        | Non-cartographic visualization                    |                                              |
++------+---------------------------------------------------+---------------------------------------------------+----------------------------------------------+
+| 4    | Map media, tools, and future directions           | Interactive visualization, mapping time, other    | Portfolios, future of cartography            |
+|      |                                                   | tools                                             |                                              |
++------+---------------------------------------------------+---------------------------------------------------+----------------------------------------------+
 
 
 
@@ -98,14 +95,11 @@ During the teaching period, this web page is updated each week before the lectur
    course-info/resources.ipynb
    course-info/license.ipynb
 
-
 .. toctree::
    :maxdepth: 2
    :caption: Lesson 1
 
    lectures/Lecture-1.ipynb
-   notebooks/week1/color-picker.ipynb
-   notebooks/week1/color-scheme.ipynb
    notebooks/week1/projections.ipynb
    notebooks/week1/PythonVSsoftware.ipynb
 
@@ -118,18 +112,20 @@ During the teaching period, this web page is updated each week before the lectur
    notebooks/week1/carto-intro-QGIS.ipynb
    notebooks/week1/exercise-1.ipynb
 
-.. .. toctree::
-..    :maxdepth: 2
-..    :caption: Lesson 2
+.. toctree::
+   :maxdepth: 2
+   :caption: Lesson 2
 
-..    lectures/Lecture-2.ipynb
+   lectures/Lecture-2.ipynb
+   notebooks/week1/color-picker.ipynb
+   notebooks/week1/color-scheme.ipynb
 
-.. .. toctree::
-..    :maxdepth: 2
-..    :caption: -Practical
+.. toctree::
+   :maxdepth: 2
+   :caption: -Practical
 
-..    notebooks/week2/Global-static-maps.ipynb
-..    notebooks/week2/PPGIS.ipynb
+   notebooks/week2/Global-static-maps.ipynb
+   notebooks/week2/PPGIS.ipynb
 
 .. .. toctree::
 ..    :maxdepth: 2
@@ -164,6 +160,7 @@ During the teaching period, this web page is updated each week before the lectur
 
 ..    final-project/portfolio.ipynb
 ..    final-project/publish-interactive-maps.ipynb
+
 
 
 
