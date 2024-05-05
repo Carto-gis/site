@@ -6,16 +6,18 @@ Below you find the intended learning outcomes after each study week. Please use 
 After **week 1**, you should be able to:
 
 - Grasp the evolution of cartographic theory and its connection to contemporary map-making.
-- Comprehend map design and color theory, applying these to create compelling and effective visual representations.
+- Comprehend core map design principals, applying these to create compelling and effective visual representations.
 - View cartography not only as a technical skill but also as an artistic endeavor.
+- Recognize the importance of coordinate systems and map projections in crafting accurate maps.
 
 After **week 2**, you should be able to:
 
 - Understand how new technologies and the advent of big data have transformed cartography.
-- Recognize the importance of coordinate systems and map projections in crafting accurate maps.
+
 - Identify design elements that aesthetically enhance maps.
 - Produce various types of maps to visualize dense point data, including point maps, grid maps, and heatmaps.
 - Create visually appealing global static maps.
+- Color theory and maps.
 
 After **week 3**, you should be able to:
 
