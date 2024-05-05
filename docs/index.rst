@@ -106,7 +106,7 @@ During the teaching period, this web page is updated each week before the lectur
    lectures/Lecture-1.ipynb
    notebooks/week1/projections.ipynb
    notebooks/week1/PythonVSsoftware.ipynb
-
+ 
 .. toctree::
    :maxdepth: 2
    :caption: -Practical
