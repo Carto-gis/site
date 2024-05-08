@@ -116,20 +116,20 @@ During the teaching period, this web page is updated each week before the lectur
    notebooks/week1/carto-intro-QGIS.ipynb
    notebooks/week1/exercise-1.ipynb
 
-.. .. toctree::
-..    :maxdepth: 2
-..    :caption: Lesson 2
-..
-..    lectures/Lecture-2.ipynb
-..    notebooks/week2/color-picker.ipynb
-..    notebooks/week2/color-scheme.ipynb
-..
-.. .. toctree::
-..    :maxdepth: 2
-..    :caption: -Practical
-..
-..    notebooks/week2/Global-static-maps.ipynb
-..    notebooks/week2/PPGIS.ipynb
+.. toctree::
+   :maxdepth: 2
+   :caption: Lesson 2
+
+   lectures/Lecture-2.ipynb
+   notebooks/week2/color-picker.ipynb
+   notebooks/week2/color-scheme.ipynb
+
+.. toctree::
+   :maxdepth: 2
+   :caption: -Practical
+
+   notebooks/week2/Global-static-maps.ipynb
+   notebooks/week2/PPGIS.ipynb
 
 .. .. toctree::
 ..    :maxdepth: 2
