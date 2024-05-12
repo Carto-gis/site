@@ -131,7 +131,7 @@ During the teaching period, this web page is updated each week before the lectur
    notebooks/week2/Global_static-maps-Python.ipynb
    notebooks/week2/Global_static-maps-QGIS.ipynb
    notebooks/week2/PPGIS-Python.ipynb
-   notebooks/week2/PPGIS-QGIS.ipynb
+   notebooks/week2/PPGIS-QGIS.rst
    notebooks/week2/Exercise-2.ipynb
 
 .. .. toctree::
