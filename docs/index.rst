@@ -116,20 +116,23 @@ During the teaching period, this web page is updated each week before the lectur
    notebooks/week1/carto-intro-QGIS.ipynb
    notebooks/week1/exercise-1.ipynb
 
-.. .. toctree::
-..    :maxdepth: 2
-..    :caption: Lesson 2
-..
-..    lectures/Lecture-2.ipynb
-..    notebooks/week2/color-picker.ipynb
-..    notebooks/week2/color-scheme.ipynb
-..
-.. .. toctree::
-..    :maxdepth: 2
-..    :caption: -Practical
-..
-..    notebooks/week2/Global-static-maps.ipynb
-..    notebooks/week2/PPGIS.ipynb
+.. toctree::
+   :maxdepth: 2
+   :caption: Lesson 2
+
+   lectures/Lecture-2.ipynb
+   notebooks/week2/color-picker.ipynb
+   notebooks/week2/color-scheme.ipynb
+
+.. toctree::
+   :maxdepth: 2
+   :caption: -Practical
+
+   notebooks/week2/Global_static-maps-Python.ipynb
+   notebooks/week2/Global_static-maps-QGIS.ipynb
+   notebooks/week2/PPGIS-Python.ipynb
+   notebooks/week2/PPGIS-QGIS.ipynb
+   notebooks/week2/Exercise-2.ipynb
 
 .. .. toctree::
 ..    :maxdepth: 2
@@ -158,12 +161,12 @@ During the teaching period, this web page is updated each week before the lectur
 ..    notebooks/week4/AI-and-other-tools.ipynb
 ..    notebooks/week4/publish-interactive-maps.ipynb
 
-.. .. toctree::
-..    :maxdepth: 2
-..    :caption: Final project
+.. toctree::
+   :maxdepth: 2
+   :caption: Final project
 
-..    final-project/portfolio.ipynb
-..    final-project/publish-interactive-maps.ipynb
+   final-project/portfolio.ipynb
+   final-project/publish-interactive-maps.ipynb
 
 
 
