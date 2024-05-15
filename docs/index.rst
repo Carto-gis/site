@@ -128,6 +128,7 @@ During the teaching period, this web page is updated each week before the lectur
    :maxdepth: 2
    :caption: -Practical
 
+   notebooks/week2/tutorial2-overview.ipynb
    notebooks/week2/Global_static-maps-Python.ipynb
    notebooks/week2/Global_static-maps-QGIS.ipynb
    notebooks/week2/PPGIS-Python.ipynb
