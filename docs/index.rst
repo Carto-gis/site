@@ -69,19 +69,18 @@ This is a four-week intensive course that will familiarize the students with the
 
 During the teaching period, this web page is updated each week before the lecture. Please note that there can be small changes to the program and topics for each week. 
 
-+------+---------------------------------------------------+---------------------------------------------------+----------------------------------------------+
-| Week | Lecture theme                                     | Tutorial                                          | Discussion                                   |
-+======+===================================================+===================================================+==============================================+
-| 1    | Introduction, cartography as an art               | Map making 101: colors, layout                    | Cartography as an art, projections           |
-+------+---------------------------------------------------+---------------------------------------------------+----------------------------------------------+
-| 2    | The digital turn and geospatial data, color theory| Static maps, PPGIS                                | Colors in maps, visual hierarchy             |
-+------+---------------------------------------------------+---------------------------------------------------+----------------------------------------------+
-| 3    | Cartographic Story Telling and Critical           | Visualizing big geospatial data,                  | "To be added", portfolios                    |
-|      | cartography Theory (Franz-Benjamin Mocnik)        | Non-cartographic visualization                    |                                              |
-+------+---------------------------------------------------+---------------------------------------------------+----------------------------------------------+
-| 4    | Map media, tools, and future directions           | Interactive visualization, mapping time, other    | Portfolios, future of cartography            |
-|      |                                                   | tools                                             |                                              |
-+------+---------------------------------------------------+---------------------------------------------------+----------------------------------------------+
++------+------------------------------------------------------------+------------------------------------------------------+----------------------------------------------+
+| Week | Lecture theme                                              | Tutorial                                             | Discussion                                   |
++======+============================================================+======================================================+==============================================+
+| 1    | Introduction, cartography as an art                        | Map making 101: colors, layout                       | Cartography as an art, projections           |
++------+------------------------------------------------------------+------------------------------------------------------+----------------------------------------------+
+| 2    | The digital turn and geospatial data, color theory         | Static maps, PPGIS                                   | Colors in maps, visual hierarchy             |
++------+------------------------------------------------------------+------------------------------------------------------+----------------------------------------------+
+| 3    | Cartographic Story Telling and Critical cartography Theory | Visualizing big geospatial data,                     | Story telling with geospatial data           |
+|      | (Franz-Benjamin Mocnik)                                    | Non-cartographic visualization                       |                                              |
++------+------------------------------------------------------------+------------------------------------------------------+----------------------------------------------+
+| 4    | Map media, tools, and future directions                    | Interactive visualization, mapping time, other tools | AI and future of cartography (portfolios)    |
++------+------------------------------------------------------------+------------------------------------------------------+----------------------------------------------+
 
 
 
