@@ -84,7 +84,6 @@ During the teaching period, this web page is updated each week before the lectur
 
 
 
-
 .. toctree::
    :maxdepth: 2
    :caption: Course information
