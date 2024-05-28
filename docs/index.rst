@@ -161,6 +161,7 @@ During the teaching period, this web page is updated each week before the lectur
    :maxdepth: 2
    :caption: -Practical
 
+   notebooks/week4/tutorial4-overview.ipynb
    notebooks/week4/interactive-vis-Python-I.ipynb
    notebooks/week4/interactive-vis-Python-II.ipynb
    notebooks/week4/AI-and-other-tools.ipynb
