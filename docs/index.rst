@@ -3,8 +3,11 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Cartographic Visualization in GIS 2024
+Cartographic Visualization in GIS 2025
 ====================================
+
+.. admonition:: 2025 implementation
+   The course pages will be further updated during Spring 2025. Some information may still change. Please visit the pages again later.  
 
 Welcome to Cartographic Visualization in GIS (GEOG-349). Through interactive lessons and hands-on exercises, this course will guide you through the fascinating world of cartography and map making. It combines the conceptual, historical, artistic, and theoretical aspects of cartography with modern technology, giving you a comprehensive and advanced toolkit for map making.
 
@@ -84,99 +87,100 @@ During the teaching period, this web page is updated each week before the lectur
 
 
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Course information
+.. .. toctree::
+..    :maxdepth: 2
+..    :caption: Course information
 
-   course-info/general-info.ipynb
-   course-info/course-env.ipynb
-   course-info/grading.ipynb
-   course-info/learning-goal.rst
-   course-info/install-python.ipynb
-   course-info/python-gis-env.ipynb
-   course-info/ai-tools.ipynb
-   course-info/resources.ipynb
-   course-info/license.ipynb
+..    course-info/general-info.ipynb
+..    course-info/course-env.ipynb
+..    course-info/grading.ipynb
+..    course-info/learning-goal.rst
+..    course-info/install-python.ipynb
+..    course-info/python-gis-env.ipynb
+..    course-info/ai-tools.ipynb
+..    course-info/resources.ipynb
+..    course-info/license.ipynb
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Lesson 1
+.. .. toctree::
+..    :maxdepth: 2
+..    :caption: Lesson 1
 
-   lectures/Lecture-1.ipynb
-   notebooks/week1/projections.ipynb
-   notebooks/week1/PythonVSsoftware.ipynb
+..    lectures/Lecture-1.ipynb
+..    notebooks/week1/projections.ipynb
+..    notebooks/week1/PythonVSsoftware.ipynb
  
-.. toctree::
-   :maxdepth: 2
-   :caption: -Practical
+.. .. toctree::
+..    :maxdepth: 2
+..    :caption: -Practical
 
-   notebooks/week1/tutorial1-overview.ipynb
-   notebooks/week1/carto-intro-Python.ipynb
-   notebooks/week1/carto-intro-QGIS.ipynb
-   notebooks/week1/exercise-1.ipynb
+..    notebooks/week1/tutorial1-overview.ipynb
+..    notebooks/week1/carto-intro-Python.ipynb
+..    notebooks/week1/carto-intro-QGIS.ipynb
+..    notebooks/week1/exercise-1.ipynb
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Lesson 2
+.. .. toctree::
+..    :maxdepth: 2
+..    :caption: Lesson 2
 
-   lectures/Lecture-2.ipynb
-   notebooks/week2/color-picker.ipynb
-   notebooks/week2/color-scheme.ipynb
+..    lectures/Lecture-2.ipynb
+..    notebooks/week2/color-picker.ipynb
+..    notebooks/week2/color-scheme.ipynb
 
-.. toctree::
-   :maxdepth: 2
-   :caption: -Practical
+.. .. toctree::
+..    :maxdepth: 2
+..    :caption: -Practical
 
-   notebooks/week2/tutorial2-overview.ipynb
-   notebooks/week2/Global_static-maps-Python.ipynb
-   notebooks/week2/Global_static-maps-QGIS.ipynb
-   notebooks/week2/PPGIS-Python.ipynb
-   notebooks/week2/PPGIS-QGIS-v2.ipynb
-   notebooks/week2/Exercise-2.ipynb
+..    notebooks/week2/tutorial2-overview.ipynb
+..    notebooks/week2/Global_static-maps-Python.ipynb
+..    notebooks/week2/Global_static-maps-QGIS.ipynb
+..    notebooks/week2/PPGIS-Python.ipynb
+..    notebooks/week2/PPGIS-QGIS-v2.ipynb
+..    notebooks/week2/Exercise-2.ipynb
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Lesson 3
+.. .. toctree::
+..    :maxdepth: 2
+..    :caption: Lesson 3
 
-   lectures/Lecture-3.ipynb
+..    lectures/Lecture-3.ipynb
 
-.. toctree::
-   :maxdepth: 2
-   :caption: -Practical
+.. .. toctree::
+..    :maxdepth: 2
+..    :caption: -Practical
 
-   notebooks/week3/tutorial3-overview.ipynb
-   notebooks/week3/non-carto-vis-Python.ipynb
-   notebooks/week3/BigData-Python.ipynb
-   notebooks/week3/cartograms-QGIS.ipynb
-   notebooks/week3/lines-and-edgebundling-QGIS.ipynb
-   notebooks/week3/Exercise-3.ipynb
+..    notebooks/week3/tutorial3-overview.ipynb
+..    notebooks/week3/non-carto-vis-Python.ipynb
+..    notebooks/week3/BigData-Python.ipynb
+..    notebooks/week3/cartograms-QGIS.ipynb
+..    notebooks/week3/lines-and-edgebundling-QGIS.ipynb
+..    notebooks/week3/Exercise-3.ipynb
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Lesson 4
+.. .. toctree::
+..    :maxdepth: 2
+..    :caption: Lesson 4
 
-   lectures/Lecture-4.ipynb
+..    lectures/Lecture-4.ipynb
 
-.. toctree::
-   :maxdepth: 2
-   :caption: -Practical
+.. .. toctree::
+..    :maxdepth: 2
+..    :caption: -Practical
 
-   notebooks/week4/tutorial4-overview.ipynb
-   notebooks/week4/interactive-vis-Python-I.ipynb
-   notebooks/week4/interactive-vis-Python-II.ipynb
-   notebooks/week4/AI-and-other-tools.ipynb
-   notebooks/week4/Exporting-web-maps-from-QGIS.ipynb
-   notebooks/week4/Spatiotemporal-QGIS.ipynb
-   notebooks/week4/publish-interactive-maps.ipynb
-   notebooks/week4/Exercise-4.ipynb
+..    notebooks/week4/tutorial4-overview.ipynb
+..    notebooks/week4/interactive-vis-Python-I.ipynb
+..    notebooks/week4/interactive-vis-Python-II.ipynb
+..    notebooks/week4/AI-and-other-tools.ipynb
+..    notebooks/week4/Exporting-web-maps-from-QGIS.ipynb
+..    notebooks/week4/Spatiotemporal-QGIS.ipynb
+..    notebooks/week4/publish-interactive-maps.ipynb
+..    notebooks/week4/Exercise-4.ipynb
    
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Final project
+.. .. toctree::
+..    :maxdepth: 2
+..    :caption: Final project
 
-   final-project/portfolio.ipynb
-   final-project/publish-interactive-maps.ipynb
+..    final-project/portfolio.ipynb
+..    final-project/publish-interactive-maps.ipynb
+
 
 
 
