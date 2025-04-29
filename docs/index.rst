@@ -47,7 +47,7 @@ After the course, the student is able to
 Course format
 -------------
 
-The course is organized in a lecture + exercise session format. The exercise sessions are hands-on and allow students to practice and develop their skills in cartographic visualization using GIS and to receive help from course assistants. Additional readings will be provided in the lectures. The exercise sessions are divided between a more software-based or Python-based approach to cartography, and the students can choose their path at the beginning of the course.
+The course is organized in a lecture + Discussion +exercise session format. The exercise sessions are hands-on and allow students to practice and develop their skills in cartographic visualization using GIS and to receive help from course assistants. Additional readings will be provided in the lectures. The exercise sessions are divided between a more software-based or Python-based approach to cartography, and the students can choose their path at the beginning of the course.
 
 
 
@@ -59,31 +59,32 @@ The course is organized in a lecture + exercise session format. The exercise ses
 
 .. admonition:: Previous knowledge of GIS and Cartography
 
-      This is an advanced-level course. A previous knolwedge of GIS concepts and cartographic principles are required.
+      This is an advanced-level course. A previous knowledge of GIS concepts and cartographic principles are required.
 
 
 
-In addition to weekly exercises, students will submit a portfolio at the end of the course. The portfolio includes a short description of each exercise and a project work applying the knowledge gained during the course.
+In addition to weekly exercises, students will submit a portfolio at the end of the course. The portfolio is based on a project work in which you will apply the knowledge gained during the course.
 
 Course topics by week
 ---------------------
 
-This is a four-week intensive course that will familiarize the students with the art and science of cartographic visualization. The students will learn about the cartographic theories and how to implement them in a GIS environment, to create appealing and effective communication of their findings. Regardless of which path you choose (software or Python), you will achieve the same outcomes and learn to create more or less similar maps using different approaches. At the University of Helsinki, the course runs for four weeks during the intensive teaching period, starting on Monday, 6 May 2024.
+This is a four-week intensive course that will familiarize the students with the art and science of cartographic visualization. The students will learn about the cartographic theories and how to implement them in a GIS environment, to create appealing and effective communication of their findings. Regardless of which path you choose (software or Python), you will achieve the same outcomes and learn to create more or less similar maps using different approaches. At the University of Helsinki, the course runs for four weeks during the intensive teaching period, starting on Tuesday, 6 May 2025.
 
-During the teaching period, this web page is updated each week before the lecture. Please note that there can be small changes to the program and topics for each week. 
+During the teaching period, this web page is updated each week before the lecture. Please note that there can be still changes to the program and topics for each week. 
 
 +------+------------------------------------------------------------+------------------------------------------------------+----------------------------------------------+
 | Week | Lecture theme                                              | Tutorial                                             | Discussion                                   |
 +======+============================================================+======================================================+==============================================+
-| 1    | Introduction, cartography as an art                        | Map making 101: colors, layout                       | Cartography as an art, projections           |
+| 1    | Introduction, cartography as an art                        | Map making 101: colors, layout                       | Introduction and expectations               |
 +------+------------------------------------------------------------+------------------------------------------------------+----------------------------------------------+
-| 2    | The digital turn and geospatial data, color theory         | Static maps, PPGIS                                   | Colors in maps, visual hierarchy             |
+| 2    | The digital turn and geospatial data, color theory         | Static maps, PPGIS                                   | Cartography as an art, projections           |
 +------+------------------------------------------------------------+------------------------------------------------------+----------------------------------------------+
-| 3    | Cartographic Story Telling and Critical cartography Theory | Visualizing big geospatial data,                     | Story telling with geospatial data           |
-|      | (Franz-Benjamin Mocnik)                                    | Non-cartographic visualization                       |                                              |
+| 3    | Map making, geovisualization, and user experience          | Visualizing big geospatial data,                    | Story telling with geospatial data           |
+|      | (Pyry Kettunen)                                             | Non-cartographic visualization                      |                                              |
 +------+------------------------------------------------------------+------------------------------------------------------+----------------------------------------------+
-| 4    | Map media, tools, and future directions                    | Interactive visualization, mapping time, other tools | AI and future of cartography (portfolios)    |
+| 4    | Map media, tools, and future directions                    | Interactive visualization, mapping time, other tools| AI and future of cartography (portfolios)    |
 +------+------------------------------------------------------------+------------------------------------------------------+----------------------------------------------+
+
 
 
 
