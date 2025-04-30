@@ -72,19 +72,21 @@ This is a four-week intensive course that will familiarize the students with the
 
 During the teaching period, this web page is updated each week before the lecture. Please note that there can be still changes to the program and topics for each week. 
 
-+------+------------------------------------------------------------+------------------------------------------------------+----------------------------------------------+
-| Week | Lecture theme                                              | Tutorial                                             | Discussion                                   |
-+======+============================================================+======================================================+==============================================+
-| 1    | Introduction, cartography as an art                        | Map making 101: colors, layout                       | Introduction and expectations               |
-+------+------------------------------------------------------------+------------------------------------------------------+----------------------------------------------+
-| 2    | The digital turn and geospatial data, color theory         | Static maps, PPGIS                                   | Cartography as an art, projections           |
-+------+------------------------------------------------------------+------------------------------------------------------+----------------------------------------------+
-| 3    | Map making, geovisualization, and user experience          | Visualizing big geospatial data,                    | Story telling with geospatial data           |
-|      | (Pyry Kettunen)                                             | Non-cartographic visualization                      |                                              |
-+------+------------------------------------------------------------+------------------------------------------------------+----------------------------------------------+
-| 4    | Map media, tools, and future directions                    | Interactive visualization, mapping time, other tools| AI and future of cartography (portfolios)    |
-+------+------------------------------------------------------------+------------------------------------------------------+----------------------------------------------+
-
++------+---------------------------------------------------------------+---------------------------------------------------------------+----------------------------------------------------------+
+| Week | Lecture theme                                                 | Tutorial                                                      | Discussion                                               |
++======+===============================================================+===============================================================+==========================================================+
+| 1    | Introduction to cartography                                   | Map making 101:                                               | Map design in fictional and                              |
+|      | (Guest speaker: Mikael Asikainen)                             | A simple thematic map                                         | real-world maps                                          |
++------+---------------------------------------------------------------+---------------------------------------------------------------+----------------------------------------------------------+
+| 2    | Cartography as an art, color theory                           | Static maps, PPGIS                                            | Cartography as an art,                                   |
+|      | (Guest speaker: Marko Kallio)                                 |                                                               | projections                                              |
++------+---------------------------------------------------------------+---------------------------------------------------------------+----------------------------------------------------------+
+| 3    | Map making, geovisualization, and user experience             | Visualizing big geospatial data,                              | Story telling with                                       |
+|      | (Pyry Kettunen)                                               | non-cartographic visualization                                | geospatial data                                          |
++------+---------------------------------------------------------------+---------------------------------------------------------------+----------------------------------------------------------+
+| 4    | Map media, tools, and future directions                       | Interactive visualization,                                    | AI and future of cartography                             |
+|      | (Guest speaker: Tuuli Toivonen)                               | advanced visualization, mapping time                          | (portfolios)                                             |
++------+---------------------------------------------------------------+---------------------------------------------------------------+----------------------------------------------------------+
 
 
 

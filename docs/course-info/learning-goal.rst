@@ -12,17 +12,15 @@ After **week 1**, you should be able to:
 
 After **week 2**, you should be able to:
 
-- Understand how new technologies and the advent of big data have transformed cartography.
-
 - Identify design elements that aesthetically enhance maps.
 - Produce various types of maps to visualize dense point data, including point maps, grid maps, and heatmaps.
 - Create visually appealing global static maps.
-- Color theory and maps.
+- Understand color theory and its application in maps.
 
 After **week 3**, you should be able to:
 
 - Understand the art of storytelling with geospatial data.
-- Grasp the principles of critical cartography.
+- Grasp the importance of user experience in map making,
 - Visualize large-scale geospatial data.
 - Acknowledge that geospatial data can be visualized in non-cartographic forms.
 
