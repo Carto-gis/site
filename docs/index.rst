@@ -146,16 +146,16 @@ During the teaching period, this web page is updated each week before the lectur
 
    lectures/Lecture-3.ipynb
 
-.. toctree::
-   :maxdepth: 2
-   :caption: -Practical
+.. .. toctree::
+..    :maxdepth: 2
+..    :caption: -Practical
 
-   notebooks/week3/tutorial3-overview.ipynb
-   notebooks/week3/non-carto-vis-Python.ipynb
-   notebooks/week3/BigData-Python.ipynb
-   notebooks/week3/cartograms-QGIS.ipynb
-   notebooks/week3/lines-and-edgebundling-QGIS.ipynb
-   notebooks/week3/Exercise-3.ipynb
+..    notebooks/week3/tutorial3-overview.ipynb
+..    notebooks/week3/non-carto-vis-Python.ipynb
+..    notebooks/week3/BigData-Python.ipynb
+..    notebooks/week3/cartograms-QGIS.ipynb
+..    notebooks/week3/lines-and-edgebundling-QGIS.ipynb
+..    notebooks/week3/Exercise-3.ipynb
 
 .. .. toctree::
 ..    :maxdepth: 2
