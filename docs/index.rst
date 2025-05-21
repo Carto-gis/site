@@ -185,6 +185,13 @@ During the teaching period, this web page is updated each week before the lectur
 ..    final-project/publish-interactive-maps.ipynb
 
 
+.. .. toctree::
+..    :maxdepth: 2
+..    :caption: Extras (optional)
+
+..    notebooks/extras//hillshade_yllas.ipynb
+
+
 
 
 
