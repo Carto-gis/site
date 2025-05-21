@@ -157,24 +157,24 @@ During the teaching period, this web page is updated each week before the lectur
    notebooks/week3/lines-and-edgebundling-QGIS.ipynb
    notebooks/week3/Exercise-3.ipynb
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Lesson 4
+.. .. toctree::
+..    :maxdepth: 2
+..    :caption: Lesson 4
 
-   lectures/Lecture-4.ipynb
+..    lectures/Lecture-4.ipynb
 
-.. toctree::
-   :maxdepth: 2
-   :caption: -Practical
+.. .. toctree::
+..    :maxdepth: 2
+..    :caption: -Practical
 
-   notebooks/week4/tutorial4-overview.ipynb
-   notebooks/week4/interactive-vis-Python-I.ipynb
-   notebooks/week4/interactive-vis-Python-II.ipynb
-   notebooks/week4/AI-and-other-tools.ipynb
-   notebooks/week4/Exporting-web-maps-from-QGIS.ipynb
-   notebooks/week4/Spatiotemporal-QGIS.ipynb
-   notebooks/week4/publish-interactive-maps.ipynb
-   notebooks/week4/Exercise-4.ipynb
+..    notebooks/week4/tutorial4-overview.ipynb
+..    notebooks/week4/interactive-vis-Python-I.ipynb
+..    notebooks/week4/interactive-vis-Python-II.ipynb
+..    notebooks/week4/AI-and-other-tools.ipynb
+..    notebooks/week4/Exporting-web-maps-from-QGIS.ipynb
+..    notebooks/week4/Spatiotemporal-QGIS.ipynb
+..    notebooks/week4/publish-interactive-maps.ipynb
+..    notebooks/week4/Exercise-4.ipynb
    
 
 .. .. toctree::
@@ -185,11 +185,11 @@ During the teaching period, this web page is updated each week before the lectur
 ..    final-project/publish-interactive-maps.ipynb
 
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Extras (optional)
+.. .. toctree::
+..    :maxdepth: 2
+..    :caption: Extras (optional)
 
-   notebooks/extras//hillshade_yllas.ipynb
+..    notebooks/extras//hillshade_yllas.ipynb
 
 
 
