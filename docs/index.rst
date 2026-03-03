@@ -3,11 +3,11 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Cartographic Visualization in GIS 2025
+Cartographic Visualization in GIS 2026
 ====================================
 
-.. admonition:: 2025 implementation
-   The course pages will be further updated during Spring 2025. Some information may still change. Please visit the pages again later.  
+.. admonition:: 2026 implementation
+   The course pages will be further updated during Spring 2026. Some information may still change. Please visit the pages again later.  
 
 Welcome to Cartographic Visualization in GIS (GEOG-349). Through interactive lessons and hands-on exercises, this course will guide you through the fascinating world of cartography and map making. It combines the conceptual, historical, artistic, and theoretical aspects of cartography with modern technology, giving you a comprehensive and advanced toolkit for map making.
 
@@ -76,16 +76,16 @@ During the teaching period, this web page is updated each week before the lectur
 | Week | Lecture theme                                                 | Tutorial                                                      | Discussion                                               |
 +======+===============================================================+===============================================================+==========================================================+
 | 1    | Introduction to cartography                                   | Map making 101:                                               | Map design in fictional and                              |
-|      | (Guest speaker: Mikael Asikainen)                             | A simple thematic map                                         | real-world maps                                          |
+|      | (Guest speaker: Mikko Kangasmaa )                             | A simple thematic map                                         | real-world maps                                          |
 +------+---------------------------------------------------------------+---------------------------------------------------------------+----------------------------------------------------------+
 | 2    | Cartography as an art, color theory                           | Static maps, PPGIS                                            | Cartography as an art,                                   |
 |      | (Guest speaker: Marko Kallio)                                 |                                                               | projections                                              |
 +------+---------------------------------------------------------------+---------------------------------------------------------------+----------------------------------------------------------+
 | 3    | Map making, geovisualization, and user experience             | Visualizing big geospatial data,                              | Story telling with                                       |
-|      | (Pyry Kettunen)                                               | non-cartographic visualization                                | geospatial data                                          |
+|      | (Guest -------)                                               | non-cartographic visualization                                | geospatial data                                          |
 +------+---------------------------------------------------------------+---------------------------------------------------------------+----------------------------------------------------------+
 | 4    | Map media, tools, and future directions                       | Interactive visualization,                                    | AI and future of cartography                             |
-|      | (Guest speaker: Tuuli Toivonen)                               | advanced visualization, mapping time                          | (portfolios)                                             |
+|      | (Guest speaker: Pyry Kettunen )                               | advanced visualization, mapping time                          | (portfolios)                                             |
 +------+---------------------------------------------------------------+---------------------------------------------------------------+----------------------------------------------------------+
 
 
@@ -104,92 +104,92 @@ During the teaching period, this web page is updated each week before the lectur
    course-info/resources.ipynb
    course-info/license.ipynb
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Lesson 1
-
-   lectures/Lecture-1.ipynb
-   notebooks/week1/projections.ipynb
-   notebooks/week1/PythonVSsoftware.ipynb
-
-.. toctree::
-   :maxdepth: 2
-   :caption: -Practical
-
-   notebooks/week1/tutorial1-overview.ipynb
-   notebooks/week1/carto-intro-Python.ipynb
-   notebooks/week1/carto-intro-QGIS.ipynb
-   notebooks/week1/exercise-1.ipynb
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Lesson 2
-
-   lectures/Lecture-2.ipynb
-   notebooks/week2/color-picker.ipynb
-   notebooks/week2/color-scheme.ipynb
-
-.. toctree::
-   :maxdepth: 2
-   :caption: -Practical
-
-   notebooks/week2/tutorial2-overview.ipynb
-   notebooks/week2/Global_static-maps-Python.ipynb
-   notebooks/week2/Global_static-maps-QGIS.ipynb
-   notebooks/week2/PPGIS-Python.ipynb
-   notebooks/week2/PPGIS-QGIS-v2.ipynb
-   notebooks/week2/Exercise-2.ipynb
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Lesson 3
-
-   lectures/Lecture-3.ipynb
-
-.. toctree::
-   :maxdepth: 2
-   :caption: -Practical
-
-   notebooks/week3/tutorial3-overview.ipynb
-   notebooks/week3/non-carto-vis-Python.ipynb
-   notebooks/week3/BigData-Python.ipynb
-   notebooks/week3/cartograms-QGIS.ipynb
-   notebooks/week3/lines-and-edgebundling-QGIS.ipynb
-   notebooks/week3/Exercise-3.ipynb
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Lesson 4
-
-   lectures/Lecture-4.ipynb
-
-.. toctree::
-   :maxdepth: 2
-   :caption: -Practical
-
-   notebooks/week4/tutorial4-overview.ipynb
-   notebooks/week4/interactive-vis-Python-I.ipynb
-   notebooks/week4/interactive-vis-Python-II.ipynb
-   notebooks/week4/AI-and-other-tools.ipynb
-   notebooks/week4/Exporting-web-maps-from-QGIS.ipynb
-   notebooks/week4/Spatiotemporal-anim-QGIS.ipynb
-   notebooks/week4/publish-interactive-maps.ipynb
-   notebooks/week4/Exercise-4.ipynb
-   
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Final project
-
-   final-project/portfolio.ipynb
-   final-project/publish-interactive-maps.ipynb
-
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Extras (optional)
-
-   notebooks/extras//hillshade_yllas.ipynb
+.. .. toctree::
+..    :maxdepth: 2
+..    :caption: Lesson 1
+..
+..    lectures/Lecture-1.ipynb
+..    notebooks/week1/projections.ipynb
+..    notebooks/week1/PythonVSsoftware.ipynb
+..
+.. .. toctree::
+..    :maxdepth: 2
+..    :caption: -Practical
+..
+..    notebooks/week1/tutorial1-overview.ipynb
+..    notebooks/week1/carto-intro-Python.ipynb
+..    notebooks/week1/carto-intro-QGIS.ipynb
+..    notebooks/week1/exercise-1.ipynb
+..
+.. .. toctree::
+..    :maxdepth: 2
+..    :caption: Lesson 2
+..
+..    lectures/Lecture-2.ipynb
+..    notebooks/week2/color-picker.ipynb
+..    notebooks/week2/color-scheme.ipynb
+..
+.. .. toctree::
+..    :maxdepth: 2
+..    :caption: -Practical
+..
+..    notebooks/week2/tutorial2-overview.ipynb
+..    notebooks/week2/Global_static-maps-Python.ipynb
+..    notebooks/week2/Global_static-maps-QGIS.ipynb
+..    notebooks/week2/PPGIS-Python.ipynb
+..    notebooks/week2/PPGIS-QGIS-v2.ipynb
+..    notebooks/week2/Exercise-2.ipynb
+..
+.. .. toctree::
+..    :maxdepth: 2
+..    :caption: Lesson 3
+..
+..    lectures/Lecture-3.ipynb
+..
+.. .. toctree::
+..    :maxdepth: 2
+..    :caption: -Practical
+..
+..    notebooks/week3/tutorial3-overview.ipynb
+..    notebooks/week3/non-carto-vis-Python.ipynb
+..    notebooks/week3/BigData-Python.ipynb
+..    notebooks/week3/cartograms-QGIS.ipynb
+..    notebooks/week3/lines-and-edgebundling-QGIS.ipynb
+..    notebooks/week3/Exercise-3.ipynb
+..
+.. .. toctree::
+..    :maxdepth: 2
+..    :caption: Lesson 4
+..
+..    lectures/Lecture-4.ipynb
+..
+.. .. toctree::
+..    :maxdepth: 2
+..    :caption: -Practical
+..
+..    notebooks/week4/tutorial4-overview.ipynb
+..    notebooks/week4/interactive-vis-Python-I.ipynb
+..    notebooks/week4/interactive-vis-Python-II.ipynb
+..    notebooks/week4/AI-and-other-tools.ipynb
+..    notebooks/week4/Exporting-web-maps-from-QGIS.ipynb
+..    notebooks/week4/Spatiotemporal-anim-QGIS.ipynb
+..    notebooks/week4/publish-interactive-maps.ipynb
+..    notebooks/week4/Exercise-4.ipynb
+..
+..
+.. .. toctree::
+..    :maxdepth: 2
+..    :caption: Final project
+..
+..    final-project/portfolio.ipynb
+..    final-project/publish-interactive-maps.ipynb
+..
+..
+.. .. toctree::
+..    :maxdepth: 2
+..    :caption: Extras (optional)
+..
+..    notebooks/extras//hillshade_yllas.ipynb
 
 
 
