@@ -99,7 +99,6 @@ During the teaching period, this web page is updated each week before the lectur
    course-info/grading.ipynb
    course-info/learning-goal.rst
    course-info/install-python.ipynb
-   course-info/python-gis-env.ipynb
    course-info/ai-tools.ipynb
    course-info/resources.ipynb
    course-info/license.ipynb
