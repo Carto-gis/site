@@ -68,7 +68,7 @@ In addition to weekly exercises, students will submit a portfolio at the end of 
 Course topics by week
 ---------------------
 
-This is a four-week intensive course that will familiarize the students with the art and science of cartographic visualization. The students will learn about the cartographic theories and how to implement them in a GIS environment, to create appealing and effective communication of their findings. Regardless of which path you choose (software or Python), you will achieve the same outcomes and learn to create more or less similar maps using different approaches. At the University of Helsinki, the course runs for four weeks during the intensive teaching period, starting on Tuesday, 6 May 2025.
+This is a four-week intensive course that will familiarize the students with the art and science of cartographic visualization. The students will learn about the cartographic theories and how to implement them in a GIS environment, to create appealing and effective communication of their findings. Regardless of which path you choose (software or Python), you will achieve the same outcomes and learn to create more or less similar maps using different approaches. At the University of Helsinki, the course runs for four weeks during the intensive teaching period, starting on Tuesday, 5 May 2026.
 
 During the teaching period, this web page is updated each week before the lecture. Please note that there can be still changes to the program and topics for each week. 
 
@@ -79,10 +79,10 @@ During the teaching period, this web page is updated each week before the lectur
 |      | (Guest speaker: Mikko Kangasmaa)                              | A simple thematic map                                         | real-world maps                                          |
 +------+---------------------------------------------------------------+---------------------------------------------------------------+----------------------------------------------------------+
 | 2    | Cartography as an art, color theory                           | Static maps, PPGIS                                            | Cartography as an art,                                   |
-|      | (Guest speaker: Marko Kallio)                                 |                                                               | projections                                              |
+|      | (Guest speaker: Tuomas Väisänen)                              |                                                               | projections                                              |
 +------+---------------------------------------------------------------+---------------------------------------------------------------+----------------------------------------------------------+
 | 3    | Spatial storytelling, map media                               | Visualizing big geospatial data,                              | Storytelling with                                        |
-|      | (Guest speaker: Tuomas Väisänen)                              | non-cartographic visualization                                | geospatial data                                          |
+|      | (Guest speaker: Marko Kallio)                                 | non-cartographic visualization                                | geospatial data                                          |
 +------+---------------------------------------------------------------+---------------------------------------------------------------+----------------------------------------------------------+
 | 4    | Geovisualization, user experience, and future directions      | Interactive visualization,                                    | AI and future of cartography                             |
 |      | (Guest speaker: Pyry Kettunen)                                | advanced visualization, mapping time                          | (portfolios)                                             |
